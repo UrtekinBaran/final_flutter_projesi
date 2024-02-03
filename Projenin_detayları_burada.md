@@ -81,6 +81,6 @@ Cart Page
 ![Ekran görüntüsü 2024-02-03 235841](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/6d165292-f5db-419a-88ea-743948ad1577)
 CommunicationScreen
 1. Responsive yapısına uygun hale getirildi. (Telefon üzerinden kullanılması tavsiye edilir)
-2. Son ekranım İletişim ekranım
+2. Son ekranım İletişim Ekranı.
 3. Bu kısım sade ve kullanıcının gözüne hoş gelecek bir tasarım düşündüm. bakılınca sade fakat iyi yerleşmiş widgetları görüyorsunuz.
 4. Menu kısmı yine aktif fakat her ekrana geçiş yapmanızı sağlamıyor sadece 2 ekrana geri dönüş sağlıyor. (loginScreen ve Profilescreen).
