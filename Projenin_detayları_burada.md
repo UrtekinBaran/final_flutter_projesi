@@ -1,9 +1,13 @@
-![Ekran görüntüsü 2024-02-03 235712](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/23de214c-9ed1-4fa4-a090-e01926235306)
+![Ekran görüntüsü 2024-02-04 005424](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/67a1ebd0-c1f0-4efb-b604-0f7e89db0df4)
 LoginScreen
 1. Responsive yapısına uygun hale getirildi. (Telefon üzerinden kullanılması tavsiye edilir)
 2. Son kullanıcı adı ve şifresi ile giriş yaptıktan sonra uygulamayı tekrar çalıştırınca kişi adını hafıza da tutuyor.
 3. Login Buttonu aktif şekilde çalışıyor. Basıldığında Profil ekranına yönlendirecek.
 4. tasarımı sadelikten kurtaracak güzel bir arka plan eklendi.
+
+
+
+
 
 
 
@@ -14,6 +18,10 @@ ProfileScreen
 3. Profil resmimin arkası çok da sade kalmasın diye güzel bir arka plan resmi ekledim.
 4. Menu Kısmına geçmek için icon ekledim.
 5. Appbar widget oluşturuldu, arama yapmayı sağlamıyor fakat güzel durduğunu düşünüyorum.
+
+
+
+
 
 
 
@@ -30,11 +38,19 @@ HomePage
 
 
 
+
+
+
+
 ![Ekran görüntüsü 2024-02-03 235759](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/8e169eec-8e20-409d-b9b7-e08c73c29c56)
 Drawer Widget
 1. Responsive yapısına uygun hale getirildi. (Telefon üzerinden kullanılması tavsiye edilir)
 2. Uygulamamın en güzel ve rahat kullanış sağladığım yeri. kullanıcı istediği ekrana anında dönebilecek şekilde tasarladım.
 3. İconları seçerken çok dikkat ettim, kullanıcıyı boğmayacak bir yapı oluşturdum.
+
+
+
+
 
 
 
@@ -46,11 +62,19 @@ Items Page
 
 
 
+
+
+
+
 ![Ekran görüntüsü 2024-02-03 235811](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/5256759e-7737-4b00-8aa3-2d65c3dbc060)
 Cart Page
 1. Responsive yapısına uygun hale getirildi. (Telefon üzerinden kullanılması tavsiye edilir)
 2. Sepett iconuna dokunulunca kullanıcının sepete eklediği ürünleri görebilecek, tutarı gözükecek.
 3. Drawer widget kısmını burda da kullandım. geri dönüşlerde kullanıcıya rahat ettirmeyi hedefledim.
+
+
+
+
 
 
 
