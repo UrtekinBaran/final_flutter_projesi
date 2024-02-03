@@ -1,3 +1,7 @@
+Proje Adı: Lezzet Sarayı
+
+
+
 ![Ekran görüntüsü 2024-02-04 005424](https://github.com/UrtekinBaran/final_flutter_projesi/assets/120023499/67a1ebd0-c1f0-4efb-b604-0f7e89db0df4)
 LoginScreen
 1. Responsive yapısına uygun hale getirildi. (Telefon üzerinden kullanılması tavsiye edilir)
