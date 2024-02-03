@@ -17,7 +17,7 @@ ProfileScreen
 2. Profil ekranın da 3 aktif icon hazırladım. bu iconlar diğer ekranlarıma yönlendirecek şekilde tasarlandı. Profil ekranımı biraz sade kullanmak istedim. kendi hakkımda bilgileri İletişim Ekranına sakladım.
 3. Profil resmimin arkası çok da sade kalmasın diye güzel bir arka plan resmi ekledim.
 4. Menu Kısmına geçmek için icon ekledim.
-5. Appbar widget oluşturuldu, arama yapmayı sağlamıyor fakat güzel durduğunu düşünüyorum.
+5. Appbar widget oluşturuldu, arama yapmayı saglamıyor fakat güzel durduğunu düşünüyorum.
 
 
 
